@@ -13,6 +13,3 @@ resource "null_resource" "null4" {
 
 resource "null_resource" "null6" {
 }
-
-resource "null_resource" "null7" {
-}
